@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,38 +8,39 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="163.70711"
-   height="233.21758"
-   viewBox="0 0 43.314171 61.705486"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="pap.svg"
+   width="161.70711"
+   height="128.8075"
+   viewBox="0 0 42.785004 34.080318"
    version="1.1"
-   id="svg8"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="pat.svg">
+   id="svg8">
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:current-layer="svg8"
+     inkscape:window-maximized="1"
+     inkscape:window-y="40"
+     inkscape:window-x="0"
+     inkscape:cy="61.36943"
+     inkscape:cx="80.853554"
+     inkscape:zoom="3.6403774"
+     showgrid="false"
+     id="namedview44"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <defs
      id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2.6962326"
-     inkscape:cx="-79.83246"
-     inkscape:cy="133.34761"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     fit-margin-top="0.3"
-     fit-margin-left="1"
-     fit-margin-right="1"
-     fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="1"
-     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -50,18 +49,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
-     transform="translate(-0.37618945,-2.2331713)">
+     transform="matrix(1,0,0,0.55301749,-0.64077278,-1.2788785)">
     <rect
        transform="translate(-52.263032,-66.864387)"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        id="rect196"
        width="42.785007"
        height="61.62611"
@@ -69,10 +66,8 @@
        y="69.176933" />
   </g>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-52.63922,-69.09756)"
+     transform="translate(-52.903803,-69.176935)"
      style="display:inline">
     <flowRoot
        xml:space="preserve"
@@ -85,17 +80,19 @@
            height="128.57141"
            x="65.714287"
            y="798.14856" /></flowRegion><flowPara
-         id="flowPara896" /></flowRoot>    <flowRoot
+         id="flowPara896" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot16"
-       style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion18"><rect
            id="rect20"
            width="72.694023"
            height="28.187479"
            x="55.633183"
            y="85.288658" /></flowRegion><flowPara
-         id="flowPara22" /></flowRoot>    <flowRoot
+         id="flowPara22" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot4538"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -107,7 +104,8 @@
            x="57.116737"
            y="96.044403"
            style="font-size:8px" /></flowRegion><flowPara
-         id="flowPara4544" /></flowRoot>    <flowRoot
+         id="flowPara4544" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot36"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -118,7 +116,8 @@
            height="90.496643"
            x="14.835515"
            y="129.87248" /></flowRegion><flowPara
-         id="flowPara42" /></flowRoot>    <flowRoot
+         id="flowPara42" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot44"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -129,7 +128,8 @@
            height="87.529541"
            x="30.041918"
            y="122.82561" /></flowRegion><flowPara
-         id="flowPara50">BORN TO CUD</flowPara></flowRoot>    <image
+         id="flowPara50">BORN TO CUD</flowPara></flowRoot>
+    <image
        transform="translate(52.263031,66.864389)"
        style="display:inline"
        y="3.3729334"
@@ -139,52 +139,36 @@
        preserveAspectRatio="none"
        height="26.601894"
        width="25.774565" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot898"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.08791075,0,0,0.12232249,43.431688,32.922441)"><flowRegion
-         id="flowRegion900"
-         style="text-align:center;text-anchor:middle"><rect
-           id="rect902"
-           width="685.71429"
-           height="125.71428"
-           x="14.285712"
-           y="758.14856"
-           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara904"
-         style="font-weight:bold;text-align:center;text-anchor:middle">846 HEAD PATS</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4546"
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;"
-       transform="matrix(0.26458333,0,0,0.26458333,49.452356,66.218122)"><flowRegion
-         id="flowRegion4548"
-         style="font-size:12px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;"><rect
-           id="rect4550"
-           width="63.421822"
-           height="18.544403"
-           x="57.116737"
-           y="96.044403"
-           style="font-size:12px;line-height:0;text-align:center;text-anchor:middle;fill:#ffffff;" /></flowRegion><flowPara
-         id="flowPara4552">Robin</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot52"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,19.86305,70.474781)"><flowRegion
-         id="flowRegion54"
-         style="line-height:0"><rect
-           id="rect56"
-           width="404.97464"
-           height="277.013"
-           x="4.4506545"
-           y="105.39389"
-           style="line-height:0" /></flowRegion><flowPara
-         id="flowPara58"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:2;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L Regular';text-align:center;text-anchor:middle">BORN TO CUDDLE</flowPara><flowPara
-         id="flowPara60"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:2;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L Regular';text-align:center;text-anchor:middle">AFFECTION IS A FUCK</flowPara><flowPara
-         id="flowPara62"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:2;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L Regular';text-align:center;text-anchor:middle">鬼神 Hug Em All 1989</flowPara><flowPara
-         id="flowPara66"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:2;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L Regular';text-align:center;text-anchor:middle">I am soft girl</flowPara></flowRoot>  </g>
+    <text
+       transform="scale(0.8477501,1.1795929)"
+       id="text873"
+       y="86.046188"
+       x="86.407303"
+       style="font-style:normal;font-weight:normal;font-size:4.14796px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103699"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.103699"
+         id="tspan871"
+         y="86.046188"
+         x="86.407303"
+         sodipodi:role="line"><tspan
+           id="tspan869"
+           style="font-weight:bold;text-align:center;text-anchor:middle;stroke-width:0.103699"
+           y="86.046188"
+           x="86.407303">846 HEAD PATS</tspan></tspan></text>
+    <text
+       id="text879"
+       y="95.180275"
+       x="72.567024"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:0;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         id="tspan877"
+         y="95.180275"
+         x="72.567024"
+         sodipodi:role="line"><tspan
+           style="stroke-width:0.264583"
+           id="tspan875"
+           y="95.180275"
+           x="72.567024">Robin</tspan></tspan></text>
+  </g>
 </svg>
